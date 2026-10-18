@@ -1,19 +1,33 @@
 # Hola, soy Carlos Manuel Pérez Molina 👋
 
-Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)**.
-Me interesan el **desarrollo backend**, la **infraestructura y el despliegue** (Docker, Nginx, CI/CD) y la **seguridad de redes y sistemas**.
+Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)**, enfocado en la **seguridad de redes y sistemas**.
 
+- 🛡️ Próximamente: TFG orientado a la ciberseguridad
 - 🔭 Actualmente: proyecto de Infraestructura Virtual y colaboración en [BioVigía](https://github.com/marcocugr/BioVigia)
-- 🌱 Aprendiendo: contenedores, integración continua y criptografía aplicada (OpenSSL)
+- 🌱 Aprendiendo: criptografía aplicada (OpenSSL), contenedores e integración continua
 - 📫 Contacto: [carlosmanuelgamer2005@gmail.com](mailto:carlosmanuelgamer2005@gmail.com) · [LinkedIn](https://www.linkedin.com/in/carlos-manuel-p%C3%A9rez-molina-aa306b370/)
 
 ---
 
 ## 🛠️ Tecnologías
 
+**Redes y seguridad**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
+![iptables](https://img.shields.io/badge/iptables-555555?style=flat)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat&logo=openssl&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
+**Infraestructura y sistemas**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 **Lenguajes**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -23,19 +37,6 @@ Me interesan el **desarrollo backend**, la **infraestructura y el despliegue** (
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![REST](https://img.shields.io/badge/API-REST-02569B?style=flat)
-
-**Infraestructura y sistemas**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Redes y seguridad**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
-![iptables](https://img.shields.io/badge/iptables-555555?style=flat)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ---
 
