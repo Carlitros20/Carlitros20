@@ -26,6 +26,7 @@ Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguri
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
 ![iptables](https://img.shields.io/badge/iptables-555555?style=flat)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat&logo=openssl&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata_IDS-EF3B2D?style=flat)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 **Infraestructura y sistemas**
@@ -55,6 +56,7 @@ Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguri
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| 🛡️ [**suricata-ids-lab**](https://github.com/Carlitros20/suricata-ids-lab) | IDS de red con Suricata sobre una granja web Docker (Nginx + 8×Apache): 37 reglas de detección propias y laboratorio de ataque con Kali Linux. | Suricata · Docker · iptables · OpenSSL |
 | [BioVigía](https://github.com/marcocugr/BioVigia) | Sistema de alerta temprana de especies invasoras basado en ciencia ciudadana (proyecto en equipo). | — |
 | [sistema-cine](https://github.com/Carlitros20/sistema-cine) | Aplicación web de gestión de un cine. Prácticas de Tecnologías Web (3º). | Laravel · Blade · PHP |
 | [AutoescuelaAC](https://github.com/Carlitros20/AutoescuelaAC) | Infraestructura para ayudar a gestionar las clases prácticas de una autoescuela. | — |
