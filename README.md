@@ -1,13 +1,21 @@
-# Hola, soy Carlos Manuel Pérez Molina 👋
+<div align="center">
+
+![Hola, soy Carlos Manuel Pérez Molina](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Hola,%20soy%20Carlos%20Manuel&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Ingenier%C3%ADa%20Inform%C3%A1tica%20%40%20UGR%20%C2%B7%20Ciberseguridad&descSize=18&descAlignY=58)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-manuel-perez-molina/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosmanuelgamer2005@gmail.com)
+
+</div>
+
+## 👨‍💻 Sobre mí
 
 Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)**, con formación en desarrollo de software (Java, Python, PHP/Laravel), administración de sistemas y redes, e infraestructura y despliegue con contenedores (Docker, Nginx).
 
 Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguridad de redes y sistemas.
 
 - 🛡️ Próximamente: TFG orientado a la ciberseguridad
-- 🔭 Actualmente: proyecto de Infraestructura Virtual
+- 🔭 Actualmente: proyecto de Infraestructura Virtual y colaboración en [BioVigía](https://github.com/marcocugr/BioVigia)
 - 🌱 Aprendiendo: criptografía aplicada (OpenSSL), contenedores e integración continua
-- 📫 Contacto: [carlosmanuelgamer2005@gmail.com](mailto:carlosmanuelgamer2005@gmail.com) · [LinkedIn](https://www.linkedin.com/in/carlos-manuel-perez-molina/)
 
 ---
 
@@ -50,6 +58,21 @@ Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguri
 | [sistema-cine](https://github.com/Carlitros20/sistema-cine) | Aplicación web de gestión de un cine. Prácticas de Tecnologías Web (3º). | Laravel · Blade · PHP |
 | [AutoescuelaAC](https://github.com/Carlitros20/AutoescuelaAC) | Infraestructura para ayudar a gestionar las clases prácticas de una autoescuela. | — |
 | [IV](https://github.com/Carlitros20/IV-) | Proyecto de Infraestructura Virtual (curso 2026-27). | Docker · CI |
+
+---
+
+## 🌍 Idiomas
+
+- 🇪🇸 **Español:** nativo
+- 🇬🇧 **Inglés:** B2 (Cambridge English)
+
+---
+
+## 🏅 Más allá del código
+
+Me apasiona el deporte. He competido a **nivel provincial** en **baloncesto** (provincial de Jaén) y en **voleibol** (2ª y 3ª provincial de Jaén), donde aprendí a trabajar en equipo y a ser constante.
+
+Hoy mis pasatiempos principales son el **gimnasio** y el **pádel**, y de vez en cuando juego al **fútbol** y al **voleibol**.
 
 ---
 
