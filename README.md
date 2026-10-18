@@ -5,7 +5,7 @@ Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)*
 Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguridad de redes y sistemas.
 
 - 🛡️ Próximamente: TFG orientado a la ciberseguridad
-- 🔭 Actualmente: proyecto de Infraestructura Virtual y colaboración en [BioVigía](https://github.com/marcocugr/BioVigia)
+- 🔭 Actualmente: proyecto de Infraestructura Virtual
 - 🌱 Aprendiendo: criptografía aplicada (OpenSSL), contenedores e integración continua
 - 📫 Contacto: [carlosmanuelgamer2005@gmail.com](mailto:carlosmanuelgamer2005@gmail.com) · [LinkedIn](https://www.linkedin.com/in/carlos-manuel-perez-molina/)
 
