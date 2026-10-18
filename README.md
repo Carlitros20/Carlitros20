@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)**, con formación en desarrollo de software (Java, Python, PHP/Laravel y nociones de C++), administración de sistemas y redes, e infraestructura y despliegue con contenedores (Docker, Nginx).
+Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)**, con **Mención en Tecnologías de la Información**, y formación en desarrollo de software (Java, Python, PHP/Laravel y nociones de C++), administración de sistemas y redes, e infraestructura y despliegue con contenedores (Docker, Nginx).
 
 Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguridad de redes y sistemas.
 
