@@ -65,6 +65,15 @@ Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguri
 
 ---
 
+## 🎓 Certificaciones
+
+<a href="https://www.credly.com/badges/aeeb4a18-c583-4f7f-acfc-526e2d2f356f/public_url"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity" width="110"></a>
+
+- **Introduction to Cybersecurity** — Cisco Networking Academy · octubre 2026 · [verificar en Credly](https://www.credly.com/badges/aeeb4a18-c583-4f7f-acfc-526e2d2f356f/public_url)
+- **B2 First (FCE)** — Cambridge English · noviembre 2021
+
+---
+
 ## 🌍 Idiomas
 
 - 🇪🇸 **Español:** nativo
