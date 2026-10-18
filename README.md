@@ -1,6 +1,8 @@
 # Hola, soy Carlos Manuel Pérez Molina 👋
 
-Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)**, enfocado en la **seguridad de redes y sistemas**.
+Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)**, con formación en desarrollo de software (Java, Python, PHP/Laravel), administración de sistemas y redes, e infraestructura y despliegue con contenedores (Docker, Nginx).
+
+Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguridad de redes y sistemas.
 
 - 🛡️ Próximamente: TFG orientado a la ciberseguridad
 - 🔭 Actualmente: proyecto de Infraestructura Virtual y colaboración en [BioVigía](https://github.com/marcocugr/BioVigia)
