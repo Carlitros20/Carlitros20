@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hola, soy Carlos Manuel Pérez Molina](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Hola,%20soy%20Carlos%20Manuel&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Ingenier%C3%ADa%20Inform%C3%A1tica%20%40%20UGR%20%C2%B7%20Ciberseguridad&descSize=18&descAlignY=58)
+![Hola, soy Carlos Manuel Pérez Molina](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&width=620&height=60&lines=%24+whoami;Carlos+Manuel+P%C3%A9rez+Molina;Ingenier%C3%ADa+Inform%C3%A1tica+%40+UGR;Enfocado+en+ciberseguridad)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-manuel-perez-molina/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosmanuelgamer2005@gmail.com)
@@ -9,12 +9,12 @@
 
 ## 👨‍💻 Sobre mí
 
-Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)**, con formación en desarrollo de software (Java, Python, PHP/Laravel), administración de sistemas y redes, e infraestructura y despliegue con contenedores (Docker, Nginx).
+Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)**, con formación en desarrollo de software (Java, Python, PHP/Laravel y nociones de C++), administración de sistemas y redes, e infraestructura y despliegue con contenedores (Docker, Nginx).
 
 Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguridad de redes y sistemas.
 
 - 🛡️ Próximamente: TFG orientado a la ciberseguridad
-- 🔭 Actualmente: proyecto de Infraestructura Virtual y colaboración en [BioVigía](https://github.com/marcocugr/BioVigia)
+- 🔭 Actualmente: proyecto de Infraestructura Virtual
 - 🌱 Aprendiendo: criptografía aplicada (OpenSSL), contenedores e integración continua
 
 ---
@@ -41,6 +41,7 @@ Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguri
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B_%28nociones%29-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 **Frameworks y web**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -57,6 +58,7 @@ Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguri
 | [BioVigía](https://github.com/marcocugr/BioVigia) | Sistema de alerta temprana de especies invasoras basado en ciencia ciudadana (proyecto en equipo). | — |
 | [sistema-cine](https://github.com/Carlitros20/sistema-cine) | Aplicación web de gestión de un cine. Prácticas de Tecnologías Web (3º). | Laravel · Blade · PHP |
 | [AutoescuelaAC](https://github.com/Carlitros20/AutoescuelaAC) | Infraestructura para ayudar a gestionar las clases prácticas de una autoescuela. | — |
+| [UMPCarAdr](https://github.com/Carlitros20/UMPCarAdr) | Prácticas de Metodología de la Programación: TDD, depuración, geometría y estructuras de datos. | C++ · Make |
 | [IV](https://github.com/Carlitros20/IV-) | Proyecto de Infraestructura Virtual (curso 2026-27). | Docker · CI |
 
 ---
@@ -65,6 +67,7 @@ Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguri
 
 - 🇪🇸 **Español:** nativo
 - 🇬🇧 **Inglés:** B2 (Cambridge English)
+- 🇫🇷 **Francés:** nociones básicas
 
 ---
 
