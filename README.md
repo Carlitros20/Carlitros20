@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-manuel-perez-molina/ "LinkedIn: carlos-manuel-perez-molina")
 
 <details>
-<summary><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="carlosm.perezmolina@gmail.com"></summary>
+<summary><picture><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="carlosm.perezmolina@gmail.com"></picture></summary>
 <br>
 
 📫 `carlosm.perezmolina@gmail.com` · [escribirme](mailto:carlosm.perezmolina@gmail.com "Abrir en tu cliente de correo")
