@@ -3,7 +3,7 @@
 ![Hola, soy Carlos Manuel Pérez Molina](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&width=620&height=60&lines=%24+whoami;Carlos+Manuel+P%C3%A9rez+Molina;Ingenier%C3%ADa+Inform%C3%A1tica+%40+UGR;Enfocado+en+ciberseguridad)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-manuel-perez-molina/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosmanuelgamer2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosm.perezmolina@gmail.com)
 
 </div>
 
