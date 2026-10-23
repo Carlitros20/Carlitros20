@@ -65,9 +65,9 @@ Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguri
 |---|---|---|
 | 🛡️&nbsp;[**suricata-ids-lab**](https://github.com/Carlitros20/suricata-ids-lab) | IDS de red con Suricata sobre una granja web Docker (Nginx + 8×Apache): 37 reglas de detección propias y laboratorio de ataque con Kali Linux. | Suricata · Docker · iptables · OpenSSL |
 | 🖥️&nbsp;[**practicasISE**](https://github.com/Carlitros20/practicasISE) | Administración de servidores Linux (Debian y AlmaLinux): RAID 1 + LVM + LUKS, bastionado de SSH con SELinux y fail2ban, monitorización con Zabbix, automatización con Ansible y pruebas de carga con JMeter. | Linux · Zabbix · Ansible · Docker |
-| 🌿&nbsp;[BioVigía](https://github.com/marcocugr/BioVigia) | Sistema de alerta temprana de especies invasoras basado en ciencia ciudadana (proyecto en equipo). | — |
+| 🌿&nbsp;[BioVigía](https://github.com/marcocugr/BioVigia) | Sistema de alerta temprana de especies invasoras basado en ciencia ciudadana (proyecto en equipo). | Rust |
 | 🍿&nbsp;[sistema-cine](https://github.com/Carlitros20/sistema-cine) | Aplicación web de gestión de un cine. Prácticas de Tecnologías Web (3º). | Laravel · Blade · PHP |
-| 🚗&nbsp;[AutoescuelaAC](https://github.com/Carlitros20/AutoescuelaAC) | Infraestructura para ayudar a gestionar las clases prácticas de una autoescuela. | — |
+| 🚗&nbsp;[AutoescuelaAC](https://github.com/Carlitros20/AutoescuelaAC) | Infraestructura para ayudar a gestionar las clases prácticas de una autoescuela. | Rust |
 | 🧩&nbsp;[UMPCarAdr](https://github.com/Carlitros20/UMPCarAdr) | Prácticas de Metodología de la Programación: TDD, depuración, geometría y estructuras de datos. | C++ · Make |
 | 🔍&nbsp;[CVE4u](https://github.com/JJ/CVE4u) | Plataforma web que recopila y actualiza información de vulnerabilidades (CVE) para jugadores de CTF hispanohablantes (proyecto en equipo, Infraestructura Virtual). | Python |
 
