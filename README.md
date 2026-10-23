@@ -21,7 +21,7 @@ Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)*
 Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguridad de redes y sistemas.
 
 - 🛡️ Próximamente: TFG orientado a la ciberseguridad
-- 🔭 Actualmente: proyecto de Infraestructura Virtual
+- 🔭 Actualmente: colaborando en [CVE4u](https://github.com/JJ/CVE4u), una plataforma de información de CVEs para jugadores de CTF
 - 🌱 Aprendiendo: criptografía aplicada (OpenSSL), contenedores e integración continua
 
 ---
@@ -69,7 +69,7 @@ Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguri
 | 🍿 [sistema-cine](https://github.com/Carlitros20/sistema-cine) | Aplicación web de gestión de un cine. Prácticas de Tecnologías Web (3º). | Laravel · Blade · PHP |
 | 🚗 [AutoescuelaAC](https://github.com/Carlitros20/AutoescuelaAC) | Infraestructura para ayudar a gestionar las clases prácticas de una autoescuela. | — |
 | 🧩 [UMPCarAdr](https://github.com/Carlitros20/UMPCarAdr) | Prácticas de Metodología de la Programación: TDD, depuración, geometría y estructuras de datos. | C++ · Make |
-| [IV](https://github.com/Carlitros20/IV-) | Proyecto de Infraestructura Virtual (curso 2026-27). | Docker · CI |
+| 🔍 [CVE4u](https://github.com/JJ/CVE4u) | Plataforma web que recopila y actualiza información de vulnerabilidades (CVE) para jugadores de CTF hispanohablantes (proyecto en equipo, Infraestructura Virtual). | Python |
 
 ---
 
