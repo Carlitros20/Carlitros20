@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)**, con **Mención en Tecnologías de la Información**, y formación en desarrollo de software (Java, Python, PHP/Laravel y nociones de C++ y Rust), administración de sistemas y redes, e infraestructura y despliegue con contenedores (Docker, Nginx).
+Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)**, con **Mención en Tecnologías de la Información**, y formación en desarrollo de software (Java, Python, PHP/Laravel, C++ y nociones de Rust), administración de sistemas y redes, e infraestructura y despliegue con contenedores (Docker, Nginx).
 
 Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguridad de redes y sistemas.
 
@@ -49,7 +49,7 @@ Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguri
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B_%28nociones%29-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust_%28nociones%29-000000?style=flat&logo=rust&logoColor=white)
 
 **Frameworks y web**
