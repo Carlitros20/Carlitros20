@@ -21,7 +21,7 @@ Estudiante de **Ingeniería Informática** en la **Universidad de Granada (UGR)*
 Estoy **principalmente enfocado en la ciberseguridad**, en especial en la seguridad de redes y sistemas.
 
 - 🛡️ Próximamente: TFG orientado a la ciberseguridad
-- 🔭 Actualmente: colaborando en [CVE4u](https://github.com/JJ/CVE4u), una plataforma de información de CVEs para jugadores de CTF
+- 🔭 Actualmente: desarrollando [AutoescuelaAC](https://github.com/Carlitros20/AutoescuelaAC), una infraestructura para gestionar las clases prácticas de una autoescuela, y colaborando en [CVE4u](https://github.com/JJ/CVE4u), una plataforma de información de CVEs para jugadores de CTF
 - 🌱 Aprendiendo: criptografía aplicada (OpenSSL), contenedores e integración continua
 
 ---
